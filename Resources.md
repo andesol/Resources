@@ -1,16 +1,32 @@
 # List of resources for web development
 
-### API design
+### Images
+- Old book illustrations
+https://www.oldbookillustrations.com/
 
+
+### UI/UX
+- Balsamiq
+https://balsamiq.com/
+- List of webs for generating different backgrounds
+https://wweb.dev/resources/creative-backgrounds
+
+### CSS 
+- About utility-first CSS (from the creator of Tailwind)
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+### API design
 - HTTP status codes reference
 https://httpstatuses.com/https://httpstatuses.com/
-
-- List of three articles for RESTful
+- Three articles about RESTful
 (1) https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec#dfref-footnote-3
 (2) https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests
 (3) https://www.oreilly.com/ideas/how-a-restful-api-represents-resources?utm_source=oreilly&utm_medium=new_site&utm_campaign=how-a-restful-api-server-reacts-to-requests
 
-
 ### npm packages
 - Standard: alternative to ESlint
 https://www.npmjs.com/package/standard
+
+### Good practices
+- Wilson et al. (2014) Best Practices for Scientific Computing
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
