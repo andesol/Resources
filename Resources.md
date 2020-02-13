@@ -1,11 +1,15 @@
 # List of resources for web development
 
 ### Images
+- Free pictures
+https://unsplash.com/
 - Old book illustrations
 https://www.oldbookillustrations.com/
 
 
 ### UI/UX
+- UI tips and tutorials
+https://refactoringui.com/
 - Balsamiq
 https://balsamiq.com/
 - List of webs for generating different backgrounds
