@@ -19,6 +19,10 @@ https://wweb.dev/resources/creative-backgrounds
 - About utility-first CSS (from the creator of Tailwind)
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
+### Javascript
+- You don't know JS (Kyle Simpson)
+https://github.com/getify/You-Dont-Know-JS
+
 ### Data Visualization
 - Collection of graphs with D3
 https://www.d3-graph-gallery.com/
