@@ -19,6 +19,10 @@ https://wweb.dev/resources/creative-backgrounds
 - About utility-first CSS (from the creator of Tailwind)
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
+### Data Visualization
+- Collection of graphs with D3
+https://www.d3-graph-gallery.com/
+
 ### API design
 - HTTP status codes reference
 https://httpstatuses.com
