@@ -21,7 +21,7 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 ### API design
 - HTTP status codes reference
-https://httpstatuses.com/https://httpstatuses.com/
+https://httpstatuses.com
 - Three articles about RESTful
 (1) https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec#dfref-footnote-3
 (2) https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests
