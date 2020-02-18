@@ -42,3 +42,6 @@ https://www.npmjs.com/package/standard
 ### Good practices
 - Wilson et al. (2014) Best Practices for Scientific Computing
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+
+### Utilities
+- (Yeoman)[https://yeoman.io]. Create starters.
