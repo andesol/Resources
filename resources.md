@@ -50,4 +50,4 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 - [Git explorer](https://gitexplorer.com/). Git commands reference.
 
 ### Programming languages
-- [LearnXinYminutes](https://learnxinyminutes.com/). Quick introduction to many languages.
+- [Learn X in Y minutes](https://learnxinyminutes.com/). Quick introduction to many languages.
