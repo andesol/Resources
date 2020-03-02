@@ -20,8 +20,8 @@ https://wweb.dev/resources/creative-backgrounds
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 ### Javascript
-- You don't know JS (Kyle Simpson)
-https://github.com/getify/You-Dont-Know-JS
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS). Book by Kyle Simpson.
+- [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html). 
 
 ### Data Visualization
 - Collection of graphs with D3
