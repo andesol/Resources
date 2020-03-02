@@ -22,6 +22,7 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 ### Javascript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS). Book by Kyle Simpson.
 - [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html). 
+- [Learning JavaScript Design Patterns, by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (2017).
 
 ### Data Visualization
 - Collection of graphs with D3
