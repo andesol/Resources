@@ -1,5 +1,7 @@
 # List of resources for web development
 
+### Meta 
+- [Tiny Helpers](https://tiny-helpers.dev/). "A collection of free single-purpose online tools for web developers"
 ### Images
 - Free pictures
 https://unsplash.com/
@@ -20,7 +22,7 @@ https://wweb.dev/resources/creative-backgrounds
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 ### Javascript
-- [You don't know JS](https://github.com/getify/You-Dont-Know-JS). Book by Kyle Simpson.
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS) (Kyle Simpson, 2020)
 - [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)(Axel Rauschmayer, 2019)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (Addy Osmani, 2017)
 
