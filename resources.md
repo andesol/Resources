@@ -20,6 +20,8 @@ https://wweb.dev/resources/creative-backgrounds
 ### CSS 
 - About utility-first CSS (from the creator of Tailwind)
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+- [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-239841)
+- [CSS Guidelines] (https://cssguidelin.es/)
 
 ### Javascript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) (Kyle Simpson, 2020)
