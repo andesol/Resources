@@ -11,6 +11,7 @@ https://www.oldbookillustrations.com/
 
 ### SVG
 - [Basic free icons](https://iconsvg.xyz/)
+- [SVG Backgrounds](https://www.svgbackgrounds.com/)
 
 ### UI/UX
 - UI tips and tutorials
