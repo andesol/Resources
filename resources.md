@@ -26,7 +26,8 @@ https://wweb.dev/resources/creative-backgrounds
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 - [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-239841)
 - [CSS Guidelines](https://cssguidelin.es/)
-- [Modern CSS Solutions]. https://moderncss.dev/
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [Learn CSS](https://web.dev/learn/css/)
 
 ### Javascript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) (Kyle Simpson, 2020)
@@ -34,8 +35,7 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (Addy Osmani, 2017)
 
 ### Data Visualization
-- Collection of graphs with D3
-https://www.d3-graph-gallery.com/
+- [Collection of graphs with D3](https://www.d3-graph-gallery.com/)
 
 ### API design
 - HTTP status codes reference
