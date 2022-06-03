@@ -28,6 +28,7 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 - [CSS Guidelines](https://cssguidelin.es/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [Learn CSS](https://web.dev/learn/css/)
+- Animations: [Animista](https://animista.net)
 
 ### Javascript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) (Kyle Simpson, 2020)
